@@ -32,5 +32,9 @@
     "typescript": {
       "optional": true
     }
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/reativ-solutions/eslint-config-reativ/issues"
+  },
+  "homepage": "https://github.com/reativ-solutions/eslint-config-reativ#readme"
 }
